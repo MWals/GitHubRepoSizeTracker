@@ -23,4 +23,4 @@ python main.py <your_github_username> <your_github_token> <repo_scope>
 Replace `<your_github_username>` with your GitHub username, `<your_github_token>` with your GitHub Personal Access Token, and `<repo_scope>` with `all`, `public`, or `private` depending on the repositories you want to include in the calculation.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License
