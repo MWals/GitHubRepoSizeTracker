@@ -1,7 +1,7 @@
 # GitHub Repository Size Tracker
 
 ## Overview
-The GitHub Repository Size Tracker is a simple yet powerful Python script that calculates the total disk usage of your GitHub repositories. It allows users to specify the scope of repositories to include in the calculation: all, public, or private.
+The GitHub Repository Size Tracker is a simple Python script that calculates the total disk usage of your GitHub repositories. It allows users to specify the scope of repositories to include in the calculation: all, public, or private.
 
 ## Prerequisites
 Before you begin, ensure you have the following:
