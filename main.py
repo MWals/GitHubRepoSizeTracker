@@ -1,6 +1,3 @@
-# pip install requests
-# python main.py your_github_username your_github_token all/public/private
-
 import requests
 import argparse
 
